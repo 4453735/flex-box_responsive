@@ -107,3 +107,8 @@ dist
 .idea/
 /.idea
 .idea
+
+#JSON
+*.json
+package.json
+
